@@ -1,40 +1,38 @@
-# Hi there, I'm Ricardo Fernandes.
+# Hi there, I'm Ricardo! 👋
 
 ## I'm a Data Scientist | Analyst
 
-- 🔭 Check out my Portolio Page 
+- 🔭 Check out my Portfolio [here](https://ricardoffdev.github.io/portfolio_projetos/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about Machine Learning Models
-- 👯 I’m looking to collaborate with other students and developers
-- ⚡ Fun fact: I play some PC Games
-
-### Find me here:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ricardoffdev#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ricardoffdev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/riffernandes#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/riffernandes#gh-dark-mode-only)
+- 👯 I’m looking foward to collaborating with other students and developers
+- ⚡ I love playing PC Games
 
 ### Languages and Tools:
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="Visual Studio Code" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="left" alt="Python" width="28" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-  <img align="left" alt="Anaconda" width="28" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://img.icons8.com/fluent/600/000000/anaconda--v2.png)">
-  <img align="left" alt="HTML5" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg.svg">
-  <img align="left" alt="MongoDB" width="28" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)">
-  <img align="center" alt="SQL" width="28" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg">
-  <img align="left" alt="Git" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="left" alt="Terminal" width="28" src="https://cdn-icons-png.flaticon.com/512/6528/6528610.png">
- 
+  <img align="left" alt="Python" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"> 
+  <img align="left" alt="Visual Studio Code" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="left" alt="Jupyter" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+  <img align="left" alt="Anaconda" width="30" src="https://img.icons8.com/fluent/600/000000/anaconda--v2.png">
+  <img align="left" alt="HTML5" width="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
+  <img align="left" alt="MongoDB" width="30" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png">
+  <img align="left" alt="SQL" width="40" src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png">
+  <img align="left" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="left" alt="Terminal" width="30" src="https://cdn-icons-png.flaticon.com/512/6528/6528610.png">  
 </div>
+<br>
+</br>
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api/top-langs/?username=ricardoffdev&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api?username=ricardoffdev&theme=dark" /></td>
+  </tr>   
+</table>
+</center>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ricardo GitHub Stats" src="https://github-readme-stats-seven-alpha-82.vercel.app/api?username=ricardoffdev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+### Find me here:
 
 <div> 
    <a href="https://instagram.com/riffernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
