@@ -26,8 +26,8 @@
 <center>
 <table>
   <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api?username=ricardoffdev&theme=dark" /></td>  
       <td><img width="400px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api/top-langs/?username=ricardoffdev&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api?username=ricardoffdev&theme=dark" /></td>
   </tr>   
 </table>
 </center>
