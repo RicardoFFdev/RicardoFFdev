@@ -9,7 +9,6 @@
 - ⚡ I love playing PC Games
 
 ### Languages and Tools:
-
 <div style="display: inline_block"><br>
   <img align="left" alt="Python" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"> 
   <img align="left" alt="Visual Studio Code" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -21,6 +20,8 @@
   <img align="left" alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="left" alt="Terminal" width="30" src="https://cdn-icons-png.flaticon.com/512/6528/6528610.png">  
 </div>
+<br>
+</br>
 <br>
 </br>
 <center>
@@ -35,9 +36,8 @@
 ### Find me here:
 
 <div> 
-   <a href="https://instagram.com/riffernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/hMYtvkZDhn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ricardoffdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ricardoffdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardoffdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://discord.gg/hMYtvkZDhn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/riffernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
