@@ -27,10 +27,7 @@
 <center>
 <table>
   <tr>
-    | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoffdev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoffdev&layout=compact&theme=buefy&hide_border=true" /></a> |
-    
-      <td><img width="495px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api?username=ricardoffdev&theme=dark" /></td>  
-      <td><img width="400px" align="left" src="https://github-readme-stats-seven-alpha-82.vercel.app/api/top-langs/?username=ricardoffdev&hide=html&layout=compact&theme=dark" /></td>
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoffdev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoffdev&layout=compact&theme=buefy&hide_border=true" /></a> |
   </tr>   
 </table>
 </center>
