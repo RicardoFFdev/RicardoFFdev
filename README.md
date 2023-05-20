@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo! 👋
 
-## I'm a Data Scientist | Analyst
+## I'm a Data Scientist
 
 - 🔭 Check out my Portfolio [here](https://ricardoffdev.github.io/portfolio_projetos/)
 - 🌱 I’m currently learning everything 🤣
