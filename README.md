@@ -1,10 +1,10 @@
 # Hi there, I'm Ricardo! 👋
 
-## I'm a Data Scientist
+## I'm a Data Analyst
 
 - 🔭 Check out my Portfolio [here](https://ricardoffdev.github.io/portfolio_projetos/)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about Machine Learning Models
+- 🥅 2024 Goals: Learn more about Machine Learning Models
 - 👯 I’m looking foward to collaborating with other students and developers
 - ⚡ I love playing PC Games
 
