@@ -4,7 +4,7 @@
 
 - 🔭 Check out my Portfolio [here](https://ricardoffdev.github.io/portfolio_projetos/)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Learn more about Machine Learning Models
+- 🥅 2024 Goals: Learn more about AI LLM
 - 👯 I’m looking foward to collaborating with other students and developers
 - ⚡ I love playing PC Games
 
