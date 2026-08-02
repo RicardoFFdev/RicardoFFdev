@@ -24,15 +24,6 @@
 </div>
 <br>
 
-<center>
-<table>
-  <tr>
-    <td><img align="center" src="https://ricardoffdev-stats.vercel.app/api?username=ricardoffdev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo GitHub Stats" /></td>
-    <td><img align="center" src="https://ricardoffdev-stats.vercel.app/api/top-langs/?username=ricardoffdev&layout=compact&theme=buefy&hide_border=true" /></td>
-  </tr>
-</table>
-</center>
-
 ### Find me here:
 
 <div>
